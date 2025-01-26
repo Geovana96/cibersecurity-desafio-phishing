@@ -1,3 +1,4 @@
+
 # Phishing para captura de senhas do Facebook
 
 ### Ferramentas
@@ -18,4 +19,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![VirtualBox_kali 1_25_01_2025_22_43_14](https://github.com/user-attachments/assets/c8b95cce-9598-46c6-8f09-6dca3ed81403)
